@@ -1,4 +1,2 @@
-ProdHopperPlaceholder
+ Customer Centric Marketing Placeholder
 =====================
-
-Placeholder site for ProdHopper.com
