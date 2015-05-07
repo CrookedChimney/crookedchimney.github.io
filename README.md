@@ -1,2 +1,4 @@
-# crookedchimney.github.io
-Promo Page
+ProdHopperPlaceholder
+=====================
+
+Placeholder site for ProdHopper.com
