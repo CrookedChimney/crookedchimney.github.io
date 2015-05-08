@@ -90,7 +90,7 @@ h1 {
   	font-size:2.70em;}
 
 h2 {
-	font-size:2.70em;
+	font-size:2.7em;
 	line-height: 1.3em;
   	font-family: 'latolight', sans-serif;
   	margin-top: 0.33em;}
@@ -474,7 +474,7 @@ form {overflow: hidden;}
 @media screen and (max-width: 768px) {
 
 
-	#header h2 {font-size:2.7em}
+	#header h2 {font-size:1.5em;}
 	
 	#header .button {font-size:10px;}
 	
@@ -510,7 +510,7 @@ and (min-device-width : 768px)
 and (max-device-width : 1024px)
 and (-webkit-min-device-pixel-ratio: 1)  {
 	
-	#header h2 {font-size:2.7em}
+	#header h2 {font-size:2.7em;}
 	
 	#header .button {font-size:16px;}
 	
