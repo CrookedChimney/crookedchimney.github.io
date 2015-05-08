@@ -471,7 +471,7 @@ form {overflow: hidden;}
 
 /* Styling for mobile devices */
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 767px) {
 
 
 	#header h2 {font-size:1.5em;}
